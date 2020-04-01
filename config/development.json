@@ -1,0 +1,15 @@
+﻿{
+  "mysql": {
+    "database": "hapi",
+    "username": "root",
+    "password": "root",
+    "options": {
+      "host": "localhost",
+      "dialect": "mysql",
+      "logging": true,
+      "timezone": "+08:00",
+      "charset": "utf8mb4",
+      "collate": "utf8mb4_unicode_ci"
+    }
+  }
+}

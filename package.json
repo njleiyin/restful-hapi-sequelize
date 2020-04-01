@@ -1,0 +1,41 @@
+{
+  "name": "hapi",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "sideEffects": [
+    "*.css"
+  ],
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "leiyin",
+  "dependencies": {
+    "@hapi/joi": "14.5.0",
+    "bcrypt": "^4.0.1",
+    "bluebird": "^3.7.2",
+    "boom": "^7.3.0",
+    "hapi": "^16.7.0",
+    "hapi-swaggered": "^2.9.0",
+    "hapi-swaggered-ui": "^2.6.0",
+    "hapi-to-express": "^1.3.0",
+    "inert": "^4.1.0",
+    "lodash": "^4.17.15",
+    "mysql2": "^2.1.0",
+    "nconf": "^0.10.0",
+    "oauth2-server": "^3.0.1",
+    "redis": "^3.0.2",
+    "restler": "^3.4.0",
+    "sequelize": "^5.21.5",
+    "vision": "^4.1.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "nodemon": "^2.0.2"
+  }
+}
