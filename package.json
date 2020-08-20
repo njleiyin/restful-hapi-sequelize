@@ -13,7 +13,7 @@
   "author": "leiyin",
   "dependencies": {
     "@hapi/joi": "14.5.0",
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.7.2",
     "boom": "^7.3.0",
     "hapi": "^16.7.0",
